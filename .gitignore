@@ -1,0 +1,5 @@
+node_modules/
+.env
+data/questions.json
+playwright-report/
+test-results/
